@@ -1,0 +1,2 @@
+<?php
+$graph->image('png');
